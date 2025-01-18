@@ -1,4 +1,60 @@
 Date,Time,Project,Task,Division,Details
+2025-01-18,0.5,Log,Maintenance,Code,"Update logs, set up log update procedure."
+2025-01-18,1.5,Sports,Performance,Abstract,Volleyball.
+2025-01-17,0.5,Study,Writing,Abstract,Writing.
+2025-01-17,0.5,V-OS,Writing,Abstract,"Link updates, slight SEO improvement with headers."
+2025-01-17,1.0,VOIDNET,Development,Code,"Small ui changes, domain setup."
+2025-01-16,3.0,Doodle,Photography,Visual,Video editing.
+2025-01-15,2.0,VOIDNET,Development,Code,Focus circle system.
+2025-01-15,1.0,VOIDNET,Writing,Abstract,Story writing.
+2025-01-14,0.5,Doodle,Photography,Visual,Filming.
+2025-01-14,2.0,Tinker,Development,Code,Site improvements.
+2025-01-13,1.5,Sports,Research,Abstract,Inline skating.
+2025-01-13,0.5,Study,Research,Abstract,Storm chasing games.
+2025-01-12,1.5,VOIDNET,Writing,Abstract,Writing content.
+2025-01-12,1.0,Sports,Performance,Abstract,Ice skating.
+2025-01-11,1.0,Doodle,Research,Visual,Brutalist architecture.
+2025-01-11,3.0,Doodle,Photography,Visual,Photography.
+2025-01-10,1.0,VOIDNET,Writing,Abstract,"Improve linking, writing adjustments."
+2025-01-10,0.5,VOIDNET,Development,Code,QOL debug commands.
+2025-01-10,2.0,Study,Research,Abstract,Home renovation.
+2025-01-09,2.5,Study,Research,Abstract,Home renovation.
+2025-01-08,1.0,Tinker,Development,Code,Site improvements.
+2025-01-08,1.0,Doodle,Design,Visual,Site design.
+2025-01-08,6.0,VOIDNET,Development,Code,Node layout.
+2025-01-07,4.0,Tinker,Development,Code,Site study and improvements.
+2025-01-07,5.0,VOIDNET,Development,Code,"Debugging, content transfer, node layout."
+2025-01-06,4.0,VOIDNET,Development,Code,Debugging.
+2025-01-06,1.0,Doodle,Research,Visual,Movie directing and storytelling.
+2025-01-06,3.0,Tinker,Development,Code,Site study and improvements.
+2025-01-05,1.5,VOIDNET,Development,Code,Debugging.
+2025-01-04,1.0,Study,Research,Abstract,Exploration collect-a-thon game design.
+2025-01-04,1.0,Study,Research,Abstract,Exploration collect-a-thon game design.
+2025-01-03,2.0,VOIDNET,Writing,Abstract,Content writing.
+2025-01-02,2.0,VOIDNET,Development,Code,Debugging.
+2025-01-01,5.5,VOIDNET,Development,Code,"Data mosh shader, post process control, connection type visuals."
+2024-12-31,3.0,VOIDNET,Development,Code,"Data mosh shader, optimization."
+2024-12-31,0.5,Doodle,2D,Visual,Graphic design.
+2024-12-30,3.5,VOIDNET,Development,Code,"Optimization, node type development."
+2024-12-30,1.0,Doodle,Photography,Visual,Editing mochi video.
+2024-12-30,1.0,Study,Performance,Abstract,Making mochi.
+2024-12-29,3.0,VOIDNET,Development,Code,"Optimization, drone development.."
+2024-12-28,3.0,VOIDNET,Development,Code,Drone development.
+2024-12-27,1.0,VOIDNET,Development,Code,Drone development.
+2024-12-26,3.5,VOIDNET,Development,Code,Bookmark system development.
+2024-12-26,1.0,Doodle,Design,Abstract,"Site critique, design help."
+2024-12-26,0.5,Study,Writing,Abstract,Script writing.
+2024-12-25,2.5,VOIDNET,Development,Code,"Bookmark system development, styling debugging."
+2024-12-24,1.0,Doodle,Design,Abstract,Video and activity brainstorming.
+2024-12-23,0.5,VOIDNET,Design,Abstract,Bookmark design.
+2024-12-22,0.5,Doodle,Photography,Visual,Street photography.
+2024-12-21,8.0,V-OS,Development,Code,Site migration.
+2024-12-20,8.0,V-OS,Development,Code,Site migration.
+2024-12-19,7.0,VOIDNET,Development,Code,"Peripheral UI, refactoring, optimization."
+2024-12-18,5.0,VOIDNET,Development,Code,"Peripheral UI, organization."
+2024-12-18,1.0,VOIDNET,Design,Visual,Peripheral UI.
+2024-12-17,6.0,VOIDNET,Development,Code,"Post processing, responsiveness."
+2024-12-16,6.0,VOIDNET,Development,Code,"Post processing, refactoring."
 2024-12-15,0.5,VOIDNET,Design,Abstract,Puzzle design.
 2024-12-15,1.0,Study,Research,Abstract,Entrepeneurship.
 2024-12-15,4.5,VOIDNET,Development,Code,"Spring forces, 3D to 2D UI."
@@ -590,15 +646,15 @@ Date,Time,Project,Task,Division,Details
 2024-03-11,1.0,Rig,Maintenance,Abstract,Organization.
 2024-03-11,0.5,Dpt.,3D,Code,Shader development.
 2024-03-10,2.5,Video Validator,Development,Code,Python desktop app development.
-2024-03-10,1.5,Eternal Ascent,Writing,Abstract,Documentation.
+2024-03-10,1.5,Cibo,Writing,Abstract,Documentation.
 2024-03-10,1.0,Study,Research,Abstract,Game design.
-2024-03-09,2.5,Eternal Ascent,Writing,Abstract,Documentation.
+2024-03-09,2.5,Cibo,Writing,Abstract,Documentation.
 2024-03-09,2.0,V-OS,2D,Visual,Documentation.
 2024-03-08,1.0,Study,Research,Abstract,Game design.
-2024-03-08,2.0,Eternal Ascent,3D,Visual,B roll.
+2024-03-08,2.0,Cibo,3D,Visual,B roll.
 2024-03-08,2.0,Dpt.,3D,Visual,VFX development.
 2024-03-07,1.0,Study,Research,Abstract,Game design.
-2024-03-07,2.0,Eternal Ascent,3D,Visual,B roll.
+2024-03-07,2.0,Cibo,3D,Visual,B roll.
 2024-03-07,3.5,Dpt.,Design,Abstract,Meetings.
 2024-03-06,1.0,Study,Research,Abstract,Game design.
 2024-03-06,0.5,Sanea Ima,Development,Code,Meta tag setup.
@@ -612,53 +668,53 @@ Date,Time,Project,Task,Division,Details
 2024-03-04,2.0,Dpt.,Maintenance,Abstract,Admin.
 2024-03-04,0.5,Dpt.,3D,Code,Shader development.
 2024-03-04,0.5,Dpt.,Design,Abstract,Meetings.
-2024-03-03,3.0,Eternal Ascent,3D,Visual,Animation.
-2024-03-02,3.0,Eternal Ascent,3D,Visual,Rigging.
-2024-03-01,1.0,Eternal Ascent,3D,Visual,Rigging.
+2024-03-03,3.0,Cibo,3D,Visual,Animation.
+2024-03-02,3.0,Cibo,3D,Visual,Rigging.
+2024-03-01,1.0,Cibo,3D,Visual,Rigging.
 2024-03-01,1.5,Dpt.,3D,Visual,Scene management.
 2024-03-01,2.5,Dpt.,3D,Code,Shader development.
 2024-03-01,1.5,Dpt.,Design,Abstract,Meetings and review.
-2024-02-29,3.0,Eternal Ascent,3D,Visual,Rigging.
+2024-02-29,3.0,Cibo,3D,Visual,Rigging.
 2024-02-29,1.0,Dpt.,3D,Code,Shader development.
 2024-02-29,1.5,Dpt.,3D,Visual,Scene management.
 2024-02-29,2.5,Dpt.,Development,Code,Push and pull interaction system.
 2024-02-29,1.5,Dpt.,Design,Abstract,Meetings and review.
 2024-02-28,1.0,Study,Research,Abstract,Game design.
-2024-02-28,3.0,Eternal Ascent,3D,Visual,"Rigging, texturing, material development."
+2024-02-28,3.0,Cibo,3D,Visual,"Rigging, texturing, material development."
 2024-02-28,2.0,Dpt.,Development,Code,Push and pull interaction system.
 2024-02-28,1.0,Dpt.,Design,Abstract,Project and pipeline coordination.
 2024-02-28,3.0,Dpt.,3D,Visual,Scene management.
 2024-02-27,1.0,Study,Research,Abstract,Game design.
-2024-02-27,4.0,Eternal Ascent,3D,Visual,"Modeling, texturing, material development."
+2024-02-27,4.0,Cibo,3D,Visual,"Modeling, texturing, material development."
 2024-02-27,5.0,Dpt.,3D,Visual,"Scene management, VFX development.."
 2024-02-27,2.5,Dpt.,Design,Abstract,Meetings and review.
 2024-02-26,1.0,Study,Research,Abstract,Game design.
-2024-02-26,4.0,Eternal Ascent,3D,Visual,"Modeling, texturing, material development."
+2024-02-26,4.0,Cibo,3D,Visual,"Modeling, texturing, material development."
 2024-02-26,1.0,Dpt.,3D,Code,Shader development.
 2024-02-26,0.5,Dpt.,Design,Abstract,Testing and meetings.
 2024-02-26,0.5,Dpt.,Development,Code,Push and pull interaction system.
 2024-02-26,1.0,Dpt.,Maintenance,Abstract,Project documentation.
 2024-02-25,1.0,Study,Research,Abstract,Game design.
-2024-02-25,6.0,Eternal Ascent,3D,Visual,UV unwrapping and rigging.
-2024-02-24,12.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-25,6.0,Cibo,3D,Visual,UV unwrapping and rigging.
+2024-02-24,12.0,Cibo,3D,Visual,Retopology.
 2024-02-24,1.0,Doodle,3D,Visual,Retopo learning.
-2024-02-23,3.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-23,3.0,Cibo,3D,Visual,Retopology.
 2024-02-23,0.5,Dpt.,Development,Code,Push and pull interaction system.
 2024-02-23,4.0,Dpt.,3D,Visual,"VFX development, VFX tweaking."
 2024-02-23,0.5,Doodle,3D,Visual,Modeling learning.
 2024-02-23,1.5,Dpt.,Design,Abstract,Testing and meetings.
-2024-02-22,3.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-22,3.0,Cibo,3D,Visual,Retopology.
 2024-02-22,2.0,Dpt.,3D,Visual,"VFX development, VFX tweaking."
 2024-02-22,1.5,Dpt.,Development,Code,Push and pull interaction system.
 2024-02-22,0.5,Dpt.,Design,Abstract,Meetings.
 2024-02-22,1.0,Dpt.,Development,Code,Debugging.
 2024-02-21,1.0,Study,Research,Abstract,Game design.
-2024-02-21,3.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-21,3.0,Cibo,3D,Visual,Retopology.
 2024-02-21,1.0,Jam,Composition,Audio,"Music composition, sampling and remixing."
 2024-02-21,1.0,Dpt.,Design,Abstract,Meetings.
 2024-02-21,5.0,Dpt.,3D,Visual,"VFX development, VFX tweaking."
 2024-02-21,1.0,Dpt.,Maintenance,Code,Project setup.
-2024-02-20,4.0,Eternal Ascent,3D,Visual,Retopology.
+2024-02-20,4.0,Cibo,3D,Visual,Retopology.
 2024-02-20,1.5,Jam,Composition,Audio,"Music composition, sampling and remixing."
 2024-02-20,1.0,Dpt.,3D,Visual,VFX development.
 2024-02-20,3.0,Dpt.,Development,Code,Push and pull interaction system.
@@ -666,13 +722,13 @@ Date,Time,Project,Task,Division,Details
 2024-02-19,1.0,Dpt.,3D,Visual,VFX development.
 2024-02-19,2.5,Dpt.,Development,Code,Push and pull interaction system.
 2024-02-19,2.0,Dpt.,Design,Abstract,Meetings.
-2024-02-19,3.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
-2024-02-18,8.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
-2024-02-17,6.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
-2024-02-16,6.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
+2024-02-19,3.0,Cibo,3D,Visual,Sculpting and modeling.
+2024-02-18,8.0,Cibo,3D,Visual,Sculpting and modeling.
+2024-02-17,6.0,Cibo,3D,Visual,Sculpting and modeling.
+2024-02-16,6.0,Cibo,3D,Visual,Sculpting and modeling.
 2024-02-16,0.5,Dpt.,Development,Code,Push and pull interaction system.
 2024-02-16,0.5,Dpt.,Design,Abstract,Meetings.
-2024-02-15,4.0,Eternal Ascent,3D,Visual,Sculpting and modeling.
+2024-02-15,4.0,Cibo,3D,Visual,Sculpting and modeling.
 2024-02-15,0.5,Dpt.,Design,Abstract,Build review.
 2024-02-15,2.0,Dpt.,3D,Code,Shader development.
 2024-02-15,1.5,Dpt.,Maintenance,Code,Hardware setup.
@@ -682,13 +738,13 @@ Date,Time,Project,Task,Division,Details
 2024-02-13,3.0,Dpt.,Development,Code,Game development.
 2024-02-13,2.5,Dpt.,Maintenance,Code,Troubleshooting and project setup.
 2024-02-13,2.0,Dpt.,Design,Abstract,Meetings.
-2024-02-12,2.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-12,2.0,Cibo,3D,Visual,Scene development.
 2024-02-12,2.5,Dpt.,Development,Code,Game development.
 2024-02-12,1.0,Dpt.,2D,Visual,VFX development.
 2024-02-12,2.0,Dpt.,Design,Abstract,Meetings.
 2024-02-11,1.0,Study,Research,Abstract,Game design.
 2024-02-11,4.0,Shaders Workshop,Performance,Abstract,Workshop.
-2024-02-10,3.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-10,3.0,Cibo,3D,Visual,Scene development.
 2024-02-10,1.0,Study,Research,Abstract,Game design.
 2024-02-09,1.0,Study,Writing,Abstract,Dev help.
 2024-02-09,2.0,Dpt.,3D,Code,VFX development.
@@ -696,21 +752,21 @@ Date,Time,Project,Task,Division,Details
 2024-02-08,2.0,Dpt.,3D,Code,VFX development.
 2024-02-08,2.0,Dpt.,Design,Abstract,Meetings.
 2024-02-08,0.5,Study,Research,Abstract,Game design.
-2024-02-07,6.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-07,6.0,Cibo,3D,Visual,Scene development.
 2024-02-07,3.5,Dpt.,3D,Code,Shader development.
 2024-02-07,1.5,Dpt.,Design,Abstract,Meetings.
-2024-02-06,2.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-06,2.0,Cibo,3D,Visual,Scene development.
 2024-02-06,1.0,Japan,Linguistics,Abstract,Japanese.
 2024-02-06,4.5,Dpt.,3D,Code,Shader development.
 2024-02-06,1.0,Dpt.,Design,Abstract,Meetings.
 2024-02-06,0.5,Rig,Maintenance,Abstract,Adobe installations.
-2024-02-05,4.0,Eternal Ascent,3D,Visual,Scene development.
+2024-02-05,4.0,Cibo,3D,Visual,Scene development.
 2024-02-05,3.0,Dpt.,Design,Abstract,Meetings.
 2024-02-05,5.5,Dpt.,3D,Code,Shader development.
 2024-02-05,1.0,Dpt.,3D,Visual,"Rigging, modeling."
-2024-02-04,1.0,Eternal Ascent,Research,Visual,Reference research.
+2024-02-04,1.0,Cibo,Research,Visual,Reference research.
 2024-02-04,2.5,Shaders Workshop,2D,Visual,Shaders workshop presentation.
-2024-02-04,0.5,Extension,Photography,Visual,Rendering.
+2024-02-04,0.5,Radiation,Photography,Visual,Rendering.
 2024-02-03,1.0,Study,Research,Abstract,Game design.
 2024-02-02,6.0,Dpt.,3D,Code,Shader breakdown and development.
 2024-02-01,4.0,Shaders Workshop,2D,Visual,Shaders workshop presentation.
@@ -762,11 +818,11 @@ Date,Time,Project,Task,Division,Details
 2024-01-12,1.0,Study,Research,Abstract,Psychology and human exploitation.
 2024-01-12,1.0,Dpt.,Design,Abstract,Team meetings.
 2024-01-12,2.5,Dpt.,3D,Visual,Character rigging.
-2024-01-12,1.0,Extension,Photography,Visual,Rendering.
+2024-01-12,1.0,Radiation,Photography,Visual,Rendering.
 2024-01-12,1.0,Dpt.,Design,Abstract,Project kickoff meeting.
 2024-01-11,0.5,Jam,Research,Audio,Music production.
 2024-01-11,0.5,Doodle,Research,Visual,Rendering.
-2024-01-11,1.0,Extension,Photography,Visual,Rendering.
+2024-01-11,1.0,Radiation,Photography,Visual,Rendering.
 2024-01-11,2.0,Dpt.,3D,Visual,Rigging and file formats.
 2024-01-11,5.0,Dpt.,Design,Abstract,"Meetings, project overviews."
 2024-01-10,0.5,Shaders Workshop,Writing,Code,Shaders workshop.
@@ -1247,17 +1303,17 @@ Date,Time,Project,Task,Division,Details
 2023-06-04,2.0,Study,Research,Abstract,"Game design, fitness."
 2023-06-03,3.0,Sports,Performance,Abstract,Canoeing and kayaking.
 2023-06-02,0.5,Study,Research,Abstract,Game design.
-2023-06-01,2.0,Extension,Photography,Visual,Editing.
+2023-06-01,2.0,Radiation,Photography,Visual,Editing.
 2023-06-01,3.0,Kabam,Design,Abstract,Meetings.
 2023-06-01,1.0,Kabam,Development,Code,VFX system.
 2023-05-31,2.0,Study,Research,Abstract,"Game design, fitness, 3D art production."
-2023-05-31,1.5,Extension,Photography,Visual,Editing.
+2023-05-31,1.5,Radiation,Photography,Visual,Editing.
 2023-05-31,1.0,R001N,3D,Visual,Procedural animation.
 2023-05-31,2.0,Kabam,Development,Code,VFX system.
 2023-05-31,2.0,Kabam,3D,Visual,VFX production.
 2023-05-31,1.0,Kabam,Design,Abstract,Meetings.
 2023-05-30,1.0,Study,Research,Abstract,Game industry.
-2023-05-30,1.0,Extension,Photography,Visual,Recording.
+2023-05-30,1.0,Radiation,Photography,Visual,Recording.
 2023-05-30,2.5,Kabam,3D,Visual,VFX production.
 2023-05-29,1.0,Rig,Maintenance,Abstract,PC cleaning.
 2023-05-29,1.0,DISCONNECT - RECONNECT,Performance,Audio,Vocals and guitar.
@@ -1398,7 +1454,7 @@ Date,Time,Project,Task,Division,Details
 2023-03-31,4.0,Study,Research,Abstract,"Psychology, game design."
 2023-03-31,2.0,Kabam,Design,Visual,"Meetings, equipment system."
 2023-03-30,3.0,Kabam,Design,Visual,"Meetings, equipment system, art styles."
-2023-03-29,3.0,Extension,Photography,Visual,Filming and editing.
+2023-03-29,3.0,Radiation,Photography,Visual,Filming and editing.
 2023-03-29,1.5,Kabam,Design,Visual,Meetings.
 2023-03-29,0.5,Qurotema,Development,Code,Gameplay programming.
 2023-03-29,1.0,Qurotema,2D,Visual,Text graphics correction.
@@ -1427,22 +1483,22 @@ Date,Time,Project,Task,Division,Details
 2023-03-18,1.0,Jam,Composition,Audio,Composition.
 2023-03-17,2.0,Jam,Composition,Audio,Composition.
 2023-03-16,1.5,Kabam,Design,Abstract,Meetings.
-2023-03-16,0.5,Extension,Photography,Visual,Recording setup.
-2023-03-15,1.0,Extension,Development,Code,"Shader development, control script."
+2023-03-16,0.5,Radiation,Photography,Visual,Recording setup.
+2023-03-15,1.0,Radiation,Development,Code,"Shader development, control script."
 2023-03-15,1.0,Kabam,Research,Visual,Look dev R&D.
 2023-03-14,0.5,Jam,Research,Audio,Music production.
-2023-03-14,2.5,Extension,3D,Visual,"Scene setup, storyboarding, VFX."
-2023-03-14,1.0,Extension,Development,Code,Shader development.
+2023-03-14,2.5,Radiation,3D,Visual,"Scene setup, storyboarding, VFX."
+2023-03-14,1.0,Radiation,Development,Code,Shader development.
 2023-03-14,0.5,Kabam,Development,Code,Shader development.
 2023-03-14,1.0,Kabam,Research,Visual,Look dev R&D.
 2023-03-13,0.5,Kabam,Development,Code,Shader development.
-2023-03-13,6.0,Extension,3D,Visual,"Modeling, posing, material production, scene setup, storyboarding."
-2023-03-13,1.5,Extension,Development,Code,"Shader development, control script."
+2023-03-13,6.0,Radiation,3D,Visual,"Modeling, posing, material production, scene setup, storyboarding."
+2023-03-13,1.5,Radiation,Development,Code,"Shader development, control script."
 2023-03-12,3.0,Study,Research,Abstract,Game design.
-2023-03-11,1.5,Extension,Development,Code,Shader development.
+2023-03-11,1.5,Radiation,Development,Code,Shader development.
 2023-03-10,1.0,Study,Research,Abstract,Game design.
-2023-03-10,5.0,Extension,Development,Code,Shader development.
-2023-03-10,1.0,Extension,Research,Visual,Art research.
+2023-03-10,5.0,Radiation,Development,Code,Shader development.
+2023-03-10,1.0,Radiation,Research,Visual,Art research.
 2023-03-10,0.5,Kabam,Development,Code,Shader development.
 2023-03-09,1.5,Study,Research,Abstract,Game design.
 2023-03-09,3.0,Kabam,Development,Code,Shader development.
