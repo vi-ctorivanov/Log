@@ -1,4 +1,4 @@
-use vos_log;
+use log;
 delete from log;
 delete from project;
 delete from task;

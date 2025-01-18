@@ -43,7 +43,7 @@ for row in source:
 	logs.append([date, time, project, task, division, details])
 
 # print all info into output file
-output.write("use vos_log;\n")
+output.write("use log;\n")
 
 output.write("delete from log;\n")
 output.write("delete from project;\n")
